@@ -1,0 +1,242 @@
+[
+  {
+    "name": "_d2id",
+    "value": "b9fb7900-0803-4806-9ab7-6f7dcc3f46b1-n",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1807235387.755385,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_csrf",
+    "value": "8ua1eRUF-jKpYv3H9zPBvfFr",
+    "domain": "listado.mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_mldataSessionId",
+    "value": "05cfcc2e-0cb5-42a2-b689-1ee9db9d57b0",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1775701207,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "main_domain",
+    "value": "",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "main_attributes",
+    "value": "",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "categories",
+    "value": "",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "last_query",
+    "value": "smartphone",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "category",
+    "value": "MLM1055",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "backend_dejavu_info",
+    "value": "j%3A%7B%7D",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "c_ZaMXlj",
+    "value": "1",
+    "domain": ".listado.mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1778291388.755898,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cp",
+    "value": "06700",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1778291389.756016,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "inferredZipcode",
+    "value": "true",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1778291389.756081,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_d2id",
+    "value": "9a728263-c14e-4526-9e5f-289c29d527a5-n",
+    "domain": ".mercadoclics.com",
+    "path": "/",
+    "expires": 1807235390.280839,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cq_duid",
+    "value": "1.1775699390.0MY1uCJOB0DudyIM",
+    "domain": ".mlstatic.com",
+    "path": "/",
+    "expires": 1783583407,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cq_suid",
+    "value": "1.1775699390.5qjy52V3ZLC9LPnw",
+    "domain": ".mlstatic.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hjSessionUser_550932",
+    "value": "eyJpZCI6IjNjNmE4NzVmLTIzMmQtNTk5My1iYjE2LWM0ZWYxMGI5OWU1NyIsImNyZWF0ZWQiOjE3NzU2OTkzOTA3ODgsImV4aXN0aW5nIjpmYWxzZX0=",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1807235390,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hjSession_550932",
+    "value": "eyJpZCI6IjEyNGYxZmY1LTZjMWEtNGJhZi05ZGZhLTc3NTNhYTM5ZTdjYSIsImMiOjE3NzU2OTkzOTA3OTAsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1775701190,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cg_uuid",
+    "value": "eccdec187a32eac36c409a9819b9074e",
+    "domain": "obs.segreencolumn.com",
+    "path": "/",
+    "expires": 1804729790.915166,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_d2id",
+    "value": "da0bf946-f00f-456b-8730-1884e5c4dc5a-n",
+    "domain": ".o11y-proxy-otel-frontend.meli.com",
+    "path": "/",
+    "expires": 1807235391.45773,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_d2id",
+    "value": "0d943868-cc86-41a2-83d2-eb0622a39057-n",
+    "domain": ".mercadolibre.com",
+    "path": "/",
+    "expires": 1807235391.707156,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cq_session",
+    "value": "1.1775699390532.sPLL2QTuGtGrw9WW.1775699407206",
+    "domain": ".mlstatic.com",
+    "path": "/",
+    "expires": 1810259407.207135,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_snoopy",
+    "value": "eyJmaW5nZXJwcmludCI6IndvNzdSNWtLT01mK292cVBMMWJoOWNoYTgxY01USElORVFzNkdHUnQ2c3VFZGpvc1padWppaUoxZFBRMXIva1llNzErS3pITlMvc1lsUnRQcG5RUXlVcWQ2WHh1bThaeEdjYXA0NGE5RlFhenEzQmFRZzBMeWdZNVM0cmp5a2Q4RHJCM1ZPaDZPSDVTRm01YWJzMlhnZW5oU3dEZ2tOcU5NQ1k1OU9JaW9BTnBuYmd4clpnPSIsImtleSI6IndxVkZnZnVYR2c1UWVxRTlaTTdtMFFKWUxqVENxQUQvTDlqMXhTSDJTb0szRXY3cmVuSUN4YlBzR2Q3dGczVDVCUFRmVmN0cXV5aHJJME9PYkJWdU5jZ0hNM01HZHprUSJ9",
+    "domain": ".mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1775703007.757119,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "g_state",
+    "value": "{\"i_l\":0,\"i_ll\":1775699407778,\"i_b\":\"cknoL0fauZlLc/oadITbUAR7yAohjHKW7Ah7mw1n5Hs\",\"i_e\":{\"enable_itp_optimization\":0}}",
+    "domain": "listado.mercadolibre.com.mx",
+    "path": "/",
+    "expires": 1791251407,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUllkMLwsCxCUCx2rzrEwgDwXAr2DQ0SS4veVhJR3St8HzsXXNFyBHUY3Ogj",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1810259407.955372,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "headless": false,
+  "timeout": 60000,
+  "scroll_veces": 5,
+  "delay_min": 1.5,
+  "delay_max": 4.5,
+  "max_intentos": 3,
+  "workers_paralelos": 3,
+  "guardar_cookies": true,
+  "tiendas_activas": [
+    "mercado_libre",
+    "aliexpress",
+    "shein"
+  ],
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  }
+}

@@ -1,0 +1,12 @@
+2026-04-08 19:49:46,838 - scraper_profesional - INFO - 🚀 Scraping Mercado Libre - Intento 1/2
+2026-04-08 19:49:48,288 - scraper_profesional - INFO - 📍 Accediendo a: https://listado.mercadolibre.com.mx/smartphone
+2026-04-08 19:49:53,434 - scraper_profesional - INFO - ✅ Cookies guardadas para mercado_libre
+2026-04-08 19:49:53,471 - scraper_profesional - INFO - ✅ Contenido detectado
+2026-04-08 19:50:00,077 - scraper_profesional - INFO - 🔍 100 artículos detectados
+2026-04-08 19:50:02,858 - scraper_profesional - INFO - 🚀 Scraping Mercado Libre - Intento 2/2
+2026-04-08 19:50:04,187 - scraper_profesional - INFO - ✅ Cookies cargadas para mercado_libre
+2026-04-08 19:50:04,490 - scraper_profesional - INFO - 📍 Accediendo a: https://listado.mercadolibre.com.mx/smartphone
+2026-04-08 19:50:10,921 - scraper_profesional - INFO - ✅ Cookies guardadas para mercado_libre
+2026-04-08 19:50:10,954 - scraper_profesional - INFO - ✅ Contenido detectado
+2026-04-08 19:50:18,506 - scraper_profesional - INFO - 🔍 120 artículos detectados
+2026-04-08 19:50:21,375 - scraper_profesional - ERROR - ❌ Falló después de 2 intentos

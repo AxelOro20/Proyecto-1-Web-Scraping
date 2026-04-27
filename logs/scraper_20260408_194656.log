@@ -1,0 +1,6 @@
+2026-04-08 19:46:56,813 - scraper_profesional - INFO - 🚀 Scraping Mercado Libre - Intento 1/2
+2026-04-08 19:46:57,558 - scraper_profesional - ERROR - ❌ Error (intento 1): 'dict' object has no attribute 'config'
+2026-04-08 19:46:57,558 - scraper_profesional - INFO - ⏳ Esperando 7s antes de reintentar...
+2026-04-08 19:47:04,559 - scraper_profesional - INFO - 🚀 Scraping Mercado Libre - Intento 2/2
+2026-04-08 19:47:05,286 - scraper_profesional - ERROR - ❌ Error (intento 2): 'dict' object has no attribute 'config'
+2026-04-08 19:47:05,286 - scraper_profesional - ERROR - ❌ Falló después de 2 intentos
